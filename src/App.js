@@ -3,7 +3,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Button from 'react-bootstrap/Button';
 import Navbar from 'react-bootstrap/Navbar';
 import Container from 'react-bootstrap/Container'
-
+import {countries} from './countries.js'
+import './script.js'
 function App() {
   return (
     <div className="App">
